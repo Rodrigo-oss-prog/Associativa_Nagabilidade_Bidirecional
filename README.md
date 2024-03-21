@@ -9,4 +9,5 @@ public void ClasseA{
 `````
 public void ClasseB{
       private ClasseA classea;
+}
 `````
